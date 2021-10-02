@@ -1,0 +1,24 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "알고리즘 문제 풀이",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lotto": "mocha programmers/level_1/lotto/lotto.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiwook00/algorithm.git"
+  },
+  "author": "jiwook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiwook00/algorithm/issues"
+  },
+  "homepage": "https://github.com/Jiwook00/algorithm#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
