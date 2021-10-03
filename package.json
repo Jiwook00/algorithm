@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lotto": "mocha programmers/level_1/lotto/lotto.test.js"
+    "lotto": "mocha programmers/level_1/lotto/lotto.test.js",
+    "phone": "mocha programmers/level_1/phoneNumber/phoneNumber.test.js"
   },
   "repository": {
     "type": "git",
