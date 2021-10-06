@@ -8,3 +8,4 @@
 - [핸드폰 번호 가리기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/phoneNumber)
 - [자연수 뒤집어 배열로 만들기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/reverseArray)
 - [없는 숫자 더하기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/addNumber)
+- [직사각형 별찍기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/rectangleStar)
