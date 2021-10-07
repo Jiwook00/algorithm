@@ -8,7 +8,8 @@
     "lotto": "mocha programmers/level_1/lotto/lotto.test.js",
     "phone": "mocha programmers/level_1/phoneNumber/phoneNumber.test.js",
     "reverseArray": "mocha programmers/level_1/reverseArray/reverseArray.test.js",
-    "addNumber": "mocha programmers/level_1/addNumber/addNumber.test.js"
+    "addNumber": "mocha programmers/level_1/addNumber/addNumber.test.js",
+    "collatz": "mocha programmers/level_1/collatz/collatz.test.js"
   },
   "repository": {
     "type": "git",
