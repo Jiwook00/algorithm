@@ -10,3 +10,4 @@
 - [없는 숫자 더하기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/addNumber)
 - [직사각형 별찍기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/rectangleStar)
 - [콜라츠 추측](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/collatz)
+- [행렬의 덧셈](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/arrayMatrix)
