@@ -11,3 +11,4 @@
 - [직사각형 별찍기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/rectangleStar)
 - [콜라츠 추측](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/collatz)
 - [행렬의 덧셈](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/arrayMatrix)
+- [제일 작은 수 제거하기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/removeMinimum)

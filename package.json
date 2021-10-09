@@ -10,7 +10,8 @@
     "reverseArray": "mocha programmers/level_1/reverseArray/reverseArray.test.js",
     "addNumber": "mocha programmers/level_1/addNumber/addNumber.test.js",
     "collatz": "mocha programmers/level_1/collatz/collatz.test.js",
-    "arrayMatrix": "mocha programmers/level_1/arrayMatrix/arrayMatrix.test.js"
+    "arrayMatrix": "mocha programmers/level_1/arrayMatrix/arrayMatrix.test.js",
+    "removeMinimum": "mocha programmers/level_1/removeMinimum/removeMinimum.test.js"
   },
   "repository": {
     "type": "git",
