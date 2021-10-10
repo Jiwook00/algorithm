@@ -4,14 +4,7 @@
   "description": "알고리즘 문제 풀이",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lotto": "mocha programmers/level_1/lotto/lotto.test.js",
-    "phone": "mocha programmers/level_1/phoneNumber/phoneNumber.test.js",
-    "reverseArray": "mocha programmers/level_1/reverseArray/reverseArray.test.js",
-    "addNumber": "mocha programmers/level_1/addNumber/addNumber.test.js",
-    "collatz": "mocha programmers/level_1/collatz/collatz.test.js",
-    "arrayMatrix": "mocha programmers/level_1/arrayMatrix/arrayMatrix.test.js",
-    "removeMinimum": "mocha programmers/level_1/removeMinimum/removeMinimum.test.js"
+    "test": "mocha programmers/level_1/시저암호/solution.test.js"
   },
   "repository": {
     "type": "git",
