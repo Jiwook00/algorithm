@@ -13,3 +13,4 @@
 - [행렬의 덧셈](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/arrayMatrix)
 - [제일 작은 수 제거하기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/removeMinimum)
 - [시저 암호](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8)
+- [이상한 문자 ](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0)
