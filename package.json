@@ -4,7 +4,7 @@
   "description": "알고리즘 문제 풀이",
   "main": "index.js",
   "scripts": {
-    "test": "mocha programmers/level_1/하샤드수/solution.test.js"
+    "test": "mocha programmers/level_1/문자열내림차순으로배치하기/solution.test.js"
   },
   "repository": {
     "type": "git",
