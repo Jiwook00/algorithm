@@ -19,3 +19,4 @@
 - [문자열 내림차순으로 배치하기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 - [나머지가 1이 되는 수 찾기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
 - [소수찾기](https://github.com/Jiwook00/algorithm/tree/main/programmers/level_1/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
+- [정수 제곱근 판별](https://github.com/Jiwook00/algorithm/blob/main/programmers/level_1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84/solution.js)
