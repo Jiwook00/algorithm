@@ -22,3 +22,4 @@
 - [정수 제곱근 판별](https://github.com/Jiwook00/algorithm/blob/main/programmers/level_1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84/solution.js)
 - [음양 더하기](https://github.com/Jiwook00/algorithm/blob/main/programmers/level_1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0/solution.js)
 - [내적](https://github.com/Jiwook00/algorithm/blob/main/programmers/level_1/%EB%82%B4%EC%A0%81/solution.js)
+- [약수의 개수와 덧셈](https://github.com/Jiwook00/algorithm/blob/main/programmers/level_1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88/solution.js)
